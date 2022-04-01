@@ -1,6 +1,6 @@
 <form action="action_page.php">
-  <div class="container">
-    <h1 align="center">Ramesh DevOps Learning</h1>
+  <div class="container" align="center">
+    <h1 align="center">Welcome to Ramesh DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
